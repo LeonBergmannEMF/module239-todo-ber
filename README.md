@@ -1,6 +1,6 @@
 # TODO App
 
-**TODO** is a web application that introduces you to the power, performance, and simplicity of [MariaDB](https://mariadb.com/products/).
+**TODO** is a web application that introduces you to the power, performance, and simplicity of [MariaDB](https://mariadb.com/products/). 
 
 <p align="center" spacing="10">
     <kbd>
